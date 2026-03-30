@@ -54,7 +54,7 @@ Raw CRM + Touchpoint Data
 
 ```bash
 # Clone and install
-git clone https://github.com/yourusername/b2b-full-funnel-attribution.git
+git clone https://github.com/annsali/b2b-full-funnel-attribution.git
 cd b2b-full-funnel-attribution
 pip install -r requirements.txt
 
